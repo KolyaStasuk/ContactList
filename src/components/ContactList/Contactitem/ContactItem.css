@@ -1,0 +1,17 @@
+.work {
+  background: #46be8a;
+}
+.family {
+  background: #7266ba;
+}
+.private {
+  background: #ff69b4;
+}
+.friends {
+  background: #f2a654;
+}
+
+
+.true .contacts-list .lab-primary {
+  background: #7266ba;
+}
